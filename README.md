@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohit252002
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
